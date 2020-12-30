@@ -1,4 +1,4 @@
-class FancyDance
+module FancyDance
     module InstanceMethods
         include Dance
     end
